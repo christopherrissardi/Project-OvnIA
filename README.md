@@ -18,4 +18,4 @@ Se, na época em que eu estava testando, existisse um método alternativo ao uso
 ---
 
 - Consulte o repositório do gpt4free: https://github.com/xtekky/gpt4free
-- Repositório do Projeto: https://github.com/christopherrissardi/Ovnia-IA
+- Repositório do Projeto: https://github.com/christopherrissardi/Project-OvnIA
