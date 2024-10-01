@@ -27,7 +27,7 @@ set_cookies("chat.openai.com", {
   "access_token": "token value"
 })
 set_cookies(".google.com", {
-  "__Secure-1PSID": "g.a000hAiBu0AGL5t6-jdY4Sck6hoDmBaCyObg7UmL_tHMF96bjRvty-Fj61JXKR2j3PsKVzJViAACgYKASkSAQASFQHGX2MitypSaTxSxSDxY4EDJyajOxoVAUF8yKqj5sl2zuyT7Opmo6uYuPdC0076"
+  "__Secure-1PSID": ""
 })
 
 ...
